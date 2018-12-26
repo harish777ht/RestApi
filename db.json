@@ -3,7 +3,7 @@
   {
     "id": 124,
     "name": "product-2-edited",
-    "img_url": "https://via.placeholder.com/350x150",
+    "img": "https://via.placeholder.com/350x150",
     "desc": "Morbi in interdum nislIagnis dis parturient montes, nascetur ridiculus mus.",
     "spec": "Morbi in interdum nisl.et magnis dis parturient montes, nascetur ridiculus mus.",
     "rel": "Morbi in interdum nisl. nis dis parturient montes, nascetur ridiculus mus.",
@@ -14,7 +14,7 @@
   {
     "id": 125,
     "name": "product-3-edited",
-    "img_url": "https://via.placeholder.com/350x150",
+    "img": "https://via.placeholder.com/350x150",
     "desc": "Morbi in interdum nislIagnis dis parturient montes, nascetur ridiculus mus.",
     "spec": "Morbi in interdum nisl.et magnis dis parturient montes, nascetur ridiculus mus.",
     "rel": "Morbi in interdum nisl. nis dis parturient montes, nascetur ridiculus mus.",
@@ -25,7 +25,7 @@
   {
     "id": 126,
     "name": "product-4-edited",
-    "img_url": "https://via.placeholder.com/350x150",
+    "img": "https://via.placeholder.com/350x150",
     "desc": "Morbi in interdum nislIagnis dis parturient montes, nascetur ridiculus mus.",
     "spec": "Morbi in interdum nisl.et magnis dis parturient montes, nascetur ridiculus mus.",
     "rel": "Morbi in interdum nisl. nis dis parturient montes, nascetur ridiculus mus.",
